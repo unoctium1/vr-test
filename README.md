@@ -1,13 +1,13 @@
-# VR development test starter
+# VR development test Submission
 
-This is a starter unity project with basic settings and models for a VR development technical test. Since this is a barebones project,
-anyone performing the test is free to choose their own VR framework to install, and other settings, like render pipeline, etc.
+## Submission Details:
 
-The test objective is to make the door in the "starter scene" interactive in VR. The user should be able to open the door by using the 
-door handle (being able to walk through or move around via some form of locomotion etc is optional). Some kind of UI / audio should 
-be made available to the user of this test to let them know how to open the door, and use any other functionality you choose to include. 
-Performing the door opening in VR should feel good and natural to the user.
+### External Assets
+* [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+* [Floatie](https://github.com/bgr/Floatie)
+* [Door Lock Sound](https://www.freesoundeffects.com/free-track/door-lock-426734/)
 
-The main goal of this test is to assess your technical skills and should only take a few hours to perform, but we also encourage you 
-to be creative!
+### Usage
+* To view in the unity editor, open [starterScene.unity](/Assets/Scenes/starterScene.unity)
 
+Alternatively, download an APK from the releases tab and run on an Oculus Quest. A small demo video showing the project running on the quest is included
