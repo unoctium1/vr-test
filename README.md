@@ -8,6 +8,17 @@
 * [Door Lock Sound](https://www.freesoundeffects.com/free-track/door-lock-426734/)
 
 ### Usage
-* To view in the unity editor, open [starterScene.unity](/Assets/Scenes/starterScene.unity)
+To view in the unity editor, open [starterScene.unity](/Assets/Scenes/starterScene.unity)
 
 Alternatively, download an APK from the releases tab and run on an Oculus Quest. A small demo video showing the project running on the quest is included
+
+
+Controls: (Also described in the app) 
+
+Use the grip buttons to grab the door handle. Push down on the handle until you hear an unlocking sound, and then pulling the handle towards you will open the door. 
+
+Use either trigger button to dismiss the in app instructions.
+
+Use the left controller joystick to move around, and the right controller joystick to rotate.
+
+
