@@ -1,4 +1,4 @@
-# VR development test Submission
+# BCIT VR Dev Test Submission - Abel Waller
 
 ## Submission Details:
 
